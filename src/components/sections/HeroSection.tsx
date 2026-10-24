@@ -2,7 +2,7 @@
 
 import { useEffect } from 'react';
 import Link from 'next/link';
-import { ArrowRight, Star, Zap, Shield, Globe, TrendingUp } from 'lucide-react';
+import { ArrowRight, Star, Zap, Globe, TrendingUp, Clock } from 'lucide-react';
 import TypingEffect from '@/components/ui/TypingEffect';
 
 const TECH_TAGS = [
@@ -18,8 +18,8 @@ const TRUST_LOGOS = [
 const STATS = [
   { value: '180+', label: 'Enterprise Platforms', note: 'Secure & scale-tested', icon: Globe },
   { value: '98%', label: 'Client Retention', note: 'Long-term partnership', icon: TrendingUp },
-  { value: 'ISO 27001', label: 'Certified Security', note: 'Top-tier data protection', icon: Shield },
-  { value: 'Since 2017', label: 'BKC, Mumbai HQ', note: '8+ years of excellence', icon: Zap },
+  { value: '99.9%', label: 'System Uptime', note: 'Maintained reliability', icon: Zap },
+  { value: '24/7/365', label: 'Enterprise Support', note: 'Round-the-clock SLA', icon: Clock },
 ];
 
 function GlowBlobs() {

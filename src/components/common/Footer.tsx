@@ -23,8 +23,6 @@ const SOCIAL_PATHS = {
 
 const OFFICES = [
   { city: 'Mumbai, India (HQ)', address: 'Office No. 49, Annex Mall, Near Western Express Highway, Borivali East, Mumbai – 400066, Maharashtra' },
-  { city: 'Registered Office', address: '305, Building No. 2, Wing L, Prathamesh Dreams, Vasai, Palghar, Vasai-Virar City (M Corp) – 401303' },
-  { city: 'Pune Office', address: "Office-743, Gera's Imperium Rise, Wipro Circle, Hinjewadi Phase 2, Pune – 411057" },
 ];
 
 const FOOTER_LINKS = {

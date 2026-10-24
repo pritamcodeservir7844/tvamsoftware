@@ -7,8 +7,6 @@ import Badge from '@/components/ui/Badge';
 
 const OFFICES = [
   { city: 'Mumbai, India (HQ)', address: 'Office No. 49, Annex Mall, Near Western Express Highway, Borivali East, Mumbai – 400066, Maharashtra', phone: '+91 88984 89138 / +91 77387 58226' },
-  { city: 'Registered Office', address: '305, Building No. 2, Wing L, Prathamesh Dreams, Vasai, Palghar, Vasai-Virar City (M Corp) – 401303', phone: '' },
-  { city: 'Pune Office', address: "Office-743, Gera's Imperium Rise, Wipro Circle, Hinjewadi Phase 2, Pune – 411057", phone: '' },
 ];
 
 export default function ContactPage() {

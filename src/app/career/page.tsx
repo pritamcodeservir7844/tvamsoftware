@@ -96,7 +96,7 @@ export default function CareerPage() {
               <span className="text-[#EAA812]">Tvam Key Software</span>
             </h1>
             <p className="mt-6 text-lg text-slate-400 max-w-xl">
-              Join our dedicated engineering hubs building high-integrity platforms and complex software systems. Offices in Mumbai, Vasai, and Pune.
+              Join our dedicated engineering hubs building high-integrity platforms and complex software systems. Headquartered in Mumbai, India.
             </p>
             <div className="mt-8 flex flex-wrap gap-4">
               <a href="#openings">
